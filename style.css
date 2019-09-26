@@ -1,6 +1,6 @@
 body {
 	margin: 0 auto;
-	background-image: URL(../images/ep_naturalwhite.png) !important;
+	background-image: URL(images/ep_naturalwhite.png) !important;
     font-family: Helvetica, sans-serif;
     background-color: blue;
     border: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 .navbar{
-    background-color: grey;
+    background-color: white;
     height: 90px;
     font-family: Times, serif;
 }
@@ -26,7 +26,6 @@ body {
     margin-right: 130px;
     font-size: 25px;
     width: auto;
-    
 }
 
 .index {
@@ -50,7 +49,15 @@ body {
     padding: 10px;
 }
 
-.about-me {
-    background-color: green;
-    
+.picture {
+    padding: 20px;
+    margin-top: 20px;
 }
+
+.footer {
+    position: fixed; 
+    bottom: 0;
+	height: 40px;
+	background-color: #666666;
+	width: 100%;
+	border-top: 10px solid #4aaaa5;
