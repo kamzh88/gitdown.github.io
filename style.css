@@ -2,9 +2,8 @@ body {
 	margin: 0 auto;
 	background-image: URL(images/ep_naturalwhite.png) !important;
     font-family: Helvetica, sans-serif;
-    background-color: blue;
     border: 0;
-
+    width: 980;
 }
 
 .navbar{
@@ -15,38 +14,36 @@ body {
 
 .navbar-brand {
     background-color: #4aaaa5 !important;
-    width: auto 10%;
+    width: auto;
     padding: 13px;
     float: left;
-    margin-left: 100px;
+    margin-left: 132px;
 }
 
 .navbar-item{
-    float: right;
-    margin-right: 130px;
-    font-size: 25px;
+    float: left auto;
+    margin-left: 114px;
+    font-size: 20px;
     width: auto;
+    padding: 10px;
 }
 
 .index {
     border-right: 1px solid #cccccc;
-    float: left;
-    width: auto 15%;
-    padding: 10px;
+    width: 32%;
+    margin-left: 13px; 
 }
 
 .portfolio {
     border-right: 1px solid #cccccc;
-    float: left;
-    width: auto 15%;
-    padding: 10px;
+    width: 32%;
+    margin-left: 13px;
 }
 
 .contact {
-    border-right: 1px solid #cccccc;
-    float: left;
-    width: auto 15%;
-    padding: 10px;
+    
+    width: 32%;
+    margin-left: 13px;  
 }
 
 .picture {
