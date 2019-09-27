@@ -67,8 +67,9 @@ body {
     background-color: #4aaaa5;
     bottom: 8px;
     left:8px;
-    width: 90%;
+    width: 78%;
     height: 30px;
+    margin-left: 13px;
 }
 
 .placeholder{
@@ -81,14 +82,9 @@ body {
 	text-align:center;
 	color: white;
     float: left;
-    padding: 5px;
-}
-
-.container {
-    height:500px; 
-    border: 5px solid #cccccc; 
-    padding: 20px; 
-    margin-top: 70px;
+    padding: 10px 20px;
+    
+    
 }
 
 @media screen and (max-width: 415px) { 
