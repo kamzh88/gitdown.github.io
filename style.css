@@ -10,14 +10,16 @@ body {
     background-color: white;
     height: 90px;
     font-family: Times, serif;
+    border-bottom: 10px solid #cccccc;
 }
 
 .navbar-brand {
     background-color: #4aaaa5 !important;
     width: auto;
-    padding: 13px;
+    padding: 8px;
     float: left;
     margin-left: 132px;
+    color: white;
 }
 
 .navbar-item{
@@ -26,6 +28,7 @@ body {
     font-size: 20px;
     width: auto;
     padding: 10px;
+    
 }
 
 .index {
@@ -41,7 +44,6 @@ body {
 }
 
 .contact {
-    
     width: 32%;
     margin-left: 13px;  
 }
@@ -57,4 +59,8 @@ body {
 	height: 40px;
 	background-color: #666666;
 	width: 100%;
-	border-top: 10px solid #4aaaa5;
+    border-top: 10px solid #4aaaa5;
+    
+.heading {
+    color: #4aaaa5;
+}
