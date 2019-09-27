@@ -91,7 +91,7 @@ body {
     margin-top: 70px;
 }
 
-@media screen and (max-width: 375px) { 
+@media screen and (max-width: 415px) { 
     .container {
         height: 600px;
     }
