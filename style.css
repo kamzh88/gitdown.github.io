@@ -60,7 +60,26 @@ body {
 	background-color: #666666;
 	width: 100%;
     border-top: 10px solid #4aaaa5;
+}
     
-.heading {
-    color: #4aaaa5;
+.placeholder1{
+    position: absolute;
+    background-color: #4aaaa5;
+    bottom: 8px;
+    left:8px;
+    width: 90%;
+    height: 30px;
+}
+
+.placeholder{
+	text-align: center;
+	margin-top: 8px;
+}
+
+.container1{
+	position: relative;
+	text-align:center;
+	color: white;
+    float: left;
+    padding: 5px;
 }
